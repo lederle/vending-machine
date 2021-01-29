@@ -12,6 +12,7 @@
   "devDependencies": {
     "eslint": "^7.18.0",
     "istanbul": "^0.4.5",
+    "jsdoc": "^3.6.6",
     "live-server": "^1.2.1",
     "qunit-tap": "^1.5.1",
     "qunitjs": "^2.4.1",
